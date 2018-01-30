@@ -1,4 +1,4 @@
-# Static Content challenge
+# Static content challenge
 
 **NB: Please do not fork this repository, to avoid your solution being visible from this repository's GitHub page. Please clone this repository and submit your solution as a separate repository.**
 
