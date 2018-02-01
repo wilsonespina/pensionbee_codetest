@@ -1,3 +1,19 @@
-# Static content challenge
+![PensionBee logo](images/pensionbee_logo.png)
 
-## Instructions on how to deploy application
+# Static Content Challenge Submission
+
+Submission of Static Content Challenge code test by Wilson Espina
+
+[https://github.com/jayfresh/static-content-challenge](https://github.com/jayfresh/static-content-challenge)
+
+## Deploying the code
+
+1. From the Terminal CLI, `cd` into the project folder.
+2. `npm install` or `yarn` to install dependencies/.
+3. Run `npm start` or `yarn start` to start application.
+4. Open `localhost:4000` to render application.
+
+
+## Running the tests
+
+* Within the project folder, run `npm test` or `yarn test` in the CLI.
