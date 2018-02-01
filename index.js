@@ -5,7 +5,7 @@ const app = express();
 
 app.use(docserver({
   dir: __dirname + '/content',
-  url: '/content/'}
+  url: '/content'}
 ));
 
 app.get('/', (req, res) => res.redirect('/content/about-page'));
