@@ -44,7 +44,7 @@ describe('URLs return correct body from relevant index.md file', () => {
         done();
       });
   });
-  it('about-page returns relevant index.md file', done => {
+  it('jobs page returns relevant index.md file', done => {
     api
       .get(jobsPage)
       .end((err, res) => {
@@ -52,7 +52,7 @@ describe('URLs return correct body from relevant index.md file', () => {
         done();
       });
   });
-  it('about-page returns relevant index.md file', done => {
+  it('valves page returns relevant index.md file', done => {
     api
       .get(valvesPage)
       .end((err, res) => {
