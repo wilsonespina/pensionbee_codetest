@@ -9,9 +9,9 @@ Submission of Static Content Challenge code test by Wilson Espina
 ## Deploying the code
 
 1. From the Terminal CLI, `cd` into the project folder.
-2. `npm install` or `yarn` to install dependencies/.
-3. Run `npm start` or `yarn start` to start application.
-4. Open `localhost:4000` to render application.
+2. `npm install` or `yarn` to install dependencies.
+3. Run `npm start` or `yarn start` to start the application.
+4. Open `localhost:4000`.
 
 
 ## Running the tests
