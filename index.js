@@ -8,7 +8,7 @@ app.use(docserver({
   url: '/content/'}
 ));
 
-app.get('/*', (req, res) => res.redirect('/content/about-page'));
+app.get('/', (req, res) => res.redirect('/content/about-page'));
 
 app.listen(port, () => console.log(`Started on port: ${port}`));
 
